@@ -1,0 +1,8 @@
+flask
+requests
+pandas
+ta
+yfinance
+alpha_vantage
+schedule
+python-dotenv
